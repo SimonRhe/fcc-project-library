@@ -1,0 +1,26 @@
+✔ faire delete all books dans api.js @done(22-01-13 06:35)
+✔ faire api/books/:id (get, post, delete) @done(22-01-13 06:52)
+✔ turn on tests @done(22-01-18 08:46)
+
+☐ (pour Issue Tracker: essayer de "réchauffer" la connexion à la db en démarrant l'app)
+
+MongoDB:
+  ✔ Set up new database @done(22-01-12 09:36)
+  ✔ Add link to .env file @done(22-01-12 09:36)
+
+To test: http://localhost:3000/
+
+freeCodeCamp Instructions:
+  ✔ Add your MongoDB connection string to .env without quotes as DB Example: DB=mongodb://admin:pass@1234.mlab.com:1234/fccpersonallib @done(22-01-12 09:37)
+  ☐ In your .env file set NODE_ENV to test, without quotes
+  ☐ You need to create all routes within routes/api.js
+  ☐ You will create all functional tests in tests/2_functional-tests.js
+
+
+
+'Cmd/Ctrl+Enter' // Triggers `Todo: Toggle Box`
+'Alt+Enter' // Triggers `Todo: Toggle Box`
+'Alt+D' // Triggers `Todo: Toggle Done`
+'Alt+C' // Triggers `Todo: Toggle Cancelled`
+'Alt+S' // Triggers `Todo: Toggle Start`
+'Cmd/Ctrl+Shift+A' // Triggers  `Todo: Archive`
